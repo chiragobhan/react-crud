@@ -1,3 +1,6 @@
+A simple CRUD application which handles the data of covid-19 patients using react.js.  
+Live Demo - https://chiragobhan.github.io/react-crud/
+  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
